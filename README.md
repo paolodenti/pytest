@@ -2,6 +2,12 @@
 
 Internal test
 
+## build image locally
+
+```bash
+docker build -t paolodenti/pytest .
+```
+
 ## run image locally
 
 ```bash
